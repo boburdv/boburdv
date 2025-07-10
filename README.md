@@ -4,8 +4,6 @@
 
 [boburdv.uz](https://boburdv.uz)
 
----
-
 ### Skills
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
@@ -25,9 +23,6 @@
 </a>
 <a href="https://reactjs.org/" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="30"/>
-</a>
-<a href="https://nodejs.org/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="30"/>
 </a>
 <a href="https://code.visualstudio.com/" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode" width="30"/>
