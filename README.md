@@ -4,9 +4,6 @@
 
 Portfolio: [boburdv.uz](https://boburdv.uz)
 
-<a href="https://code.visualstudio.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode" width="30"/>
-</a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="30"/>
 </a>&nbsp;&nbsp;
