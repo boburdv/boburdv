@@ -1,4 +1,4 @@
-# Assalomu alaykum.
+# Assalomu alaykum
 
 ## Men Boburbek Frontend dasturchiman.
 
