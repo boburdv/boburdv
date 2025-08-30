@@ -15,11 +15,11 @@
 <a href="https://www.typescriptlang.org/" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="30"/>
 </a>&nbsp;&nbsp;
-<a href="https://nextjs.org/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="30" style="background: white; border-radius: 4px;" />
-</a>&nbsp;&nbsp;
 <a href="https://reactjs.org/" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="30"/>
+</a>&nbsp;&nbsp;
+<a href="https://nextjs.org/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="30" style="background: white; border-radius: 4px;" />
 </a>&nbsp;&nbsp;
 <a href="https://tailwindcss.com/" target="_blank">
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="30"/>
