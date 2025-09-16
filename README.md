@@ -1,8 +1,8 @@
-# Hi, I'm Boburbek
+# Hello
 
-## Frontend Developer
+## I'm Boburbek, a Frontend Developer.
 
-#### Skills:
+#### Main Skills:
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="30"/>
 </a>&nbsp;&nbsp;
