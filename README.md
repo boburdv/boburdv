@@ -1,4 +1,4 @@
-# Hello
+# 👋 Hi there
 
 ## I'm Boburbek, a Frontend Developer.
 
